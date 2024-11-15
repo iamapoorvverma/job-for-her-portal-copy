@@ -25,11 +25,6 @@ Database: MongoDb
 
    $ npm start
    
-   job for her > backend > open terminal and npm i <br />
-   job for her > portal > open terminal and npm i   <br />
-   job for her > open terminal and npm i <br />
-   job for her > open terminal and npm i -g concurrency <br />
-   job for her > open terminal and npm start <br />
    
    
       
